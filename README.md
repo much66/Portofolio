@@ -44,6 +44,6 @@ Project Link | Associated | Tools | Project Description
 <br>
 <br>
 
-### 📂 Complated Course and Certification
+### 📂 Completed Course and Certification
 
 - [Data Science & Artificial Intelligence](https://edu.startupcampus.id/certificate/91e9c791-ff8c-49ce-bd5e-accf2fe696f3) | Startup Campus

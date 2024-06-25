@@ -40,7 +40,7 @@ Project Link | Associated | Tools | Project Description
 🚕 [Stocks Portfolio Optimization](https://lookerstudio.google.com/reporting/feda5c98-ea8e-46a9-aa6a-cadb7e207c58) |Final Project - Startup Campuss|Looker Studio| The stock portfolio optimization dashboard utilizes Value at Risk (VaR) and minimum volatility metrics to analyze and visualize strategies for maximizing returns while minimizing risk..
 💊 [Customer Segmentation Dashboard]( coming soon ) | - | Tableau |The customer segmentation dashboard leverages RFM (Recency, Frequency, Monetary) analysis to categorize customers based on their purchasing behavior, enabling targeted marketing strategies and improved customer relationship management.
 💉[Indonesia Covid-19 Dashboard]( coming soon ) |College Project [*Team*]|Looker Studio| Shared data regarding the latest COVID-19 situation in Indonesia, including updates on new active cases, new confirmed cases, new deaths, and recoveries.
-👩🏻‍💻[Heart Disease Dashboard]( coming soon ) | College Project | Tableau | The Heart Disease Dashboard provides comprehensive insights and analytics on cardiovascular health indicators, aiding in diagnosis and treatment decisions for improved patient outcomes.
+👩🏻‍💻[Heart Disease Dashboard](https://public.tableau.com/views/HeartDisease_17192394275550/HeartDisease?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) | College Project | Tableau | The Heart Disease Dashboard provides comprehensive insights and analytics on cardiovascular health indicators, aiding in diagnosis and treatment decisions for improved patient outcomes.
 <br>
 <br>
 
